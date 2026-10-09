@@ -35,3 +35,9 @@ Currently building retrieval systems over technical aeronautical documentation a
 📫 obioracelestine@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/obioracelestine/)
 📄 [Portfolio](https://clear-bangle-5cc.notion.site/Obiora-Okafor-AI-Automation-Portfolio-5388272c5cd94c0692f4ed90198611ff)
+
+[Vannie — RAG retrieval system Demo](https://github.com/user-attachments/assets/c31418f3-f868-4a80-8cfa-8d73362b3aa9)
+
+[![Watch the full Vannie demo](docs/demo-thumbnail.png)](https://youtu.be/-o0cmGC5JdI)
+
+
