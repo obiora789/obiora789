@@ -38,6 +38,4 @@ Currently building retrieval systems over technical aeronautical documentation a
 
 [Vannie — RAG retrieval system Demo](https://github.com/user-attachments/assets/c31418f3-f868-4a80-8cfa-8d73362b3aa9)
 
-[![Watch the full Vannie demo](docs/demo-thumbnail.png)](https://youtu.be/-o0cmGC5JdI)
-
-
+[![Watch the full Vannie demo](<img width="1279" height="732" alt="Vannie_Thumbnail" src="https://github.com/user-attachments/assets/6a9a8060-bb37-4fdc-8876-4727db252913" />)](https://youtu.be/-o0cmGC5JdI)
