@@ -21,7 +21,7 @@ Currently building retrieval systems over technical aeronautical documentation a
 ### Selected projects
 
 **[Nigeria AIP Retrieval System]** — Multimodal RAG pipeline that makes aeronautical information publications queryable in natural language. Python, OpenAI, vision models, vector search.
-github.com/obiora789/nigeria-aip-bot
+https://github.com/obiora789/nigeria-aip-bot
 
 ---
 
